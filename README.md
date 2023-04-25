@@ -1,4 +1,4 @@
-# uer-login
+# user-login
 ## 用户注册登录
 
 ### 1、要使用 Node.js 和 MySQL 实现一个用户注册和登录的模块，首先需要安装 Node.js 和 MySQL 的相关依赖库。以下是一个简单的示例来实现这个功能： 
